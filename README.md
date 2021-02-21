@@ -220,22 +220,6 @@ mysql> select * from todo;
 ```
 
 
-## 使用`node.js`实现全程的自动化
-
-使用`node.js`的`mysql`库可以接入`MySQL`数据库. 从而无需进入`MySQL`命令行, 直接导入所需数据. 
-
-首先安装`mysql`. 
-
-```shell
-npm install mysql --save
-```
-
-然后, 可以导入. 
-
-```
-
-```
-
 
 
 
