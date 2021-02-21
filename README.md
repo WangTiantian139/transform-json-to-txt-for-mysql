@@ -179,7 +179,7 @@ function saveTXT(todotxt) {
 }
 ```
 
-最终文件可以在[我的github主页]()中查看
+最终文件可以在[我的GitHub仓库](https://github.com/WangTiantian139/transform-json-to-txt-for-mysql)中查看
 
 运行文件, 即可生成文件`todo.txt`. 
 
